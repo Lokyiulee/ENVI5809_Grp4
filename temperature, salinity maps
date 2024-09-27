@@ -1,0 +1,19 @@
+import os
+import numpy as np
+
+import datetime as dt
+
+import netCDF4
+from netCDF4 import Dataset, num2date
+
+import cartopy
+import cartopy.crs as ccrs
+import cartopy.feature as cfeature
+from cartopy.mpl.gridliner import LONGITUDE_FORMATTER, LATITUDE_FORMATTER
+cartopy.config['data_dir'] = os.getenv('CARTOPY_DIR', cartopy.config.get('data_dir'))
+
+import cmocean
+
+from matplotlib import pyplot as plt
+
+%matplotlib inline
