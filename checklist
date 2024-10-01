@@ -1,5 +1,5 @@
 -done - Utilize cartopy to visualize the specific area of focus. 
-Create coloured maps to compare temperature, salinity, and current speed differences between 2011 and 2017.
+-2016 done- Create coloured maps to compare temperature, salinity, and current speed differences between 2011 and 2017.
 ## only add quiver on current ##find highest temperature day ##copy tristan line graph temp
 Generate plots illustrating the pH level changes in 2011 and 2016.
 Plot maps for the coral bleaching rate in 2011 and 2016.
