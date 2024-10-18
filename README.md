@@ -4,8 +4,11 @@ Understanding environmental effects -temperature, salinity, pH and current speed
 
 # Project collaborators and contact details
 Dequan Shao - dsha0149@uni.sydney.edu.au
+
 Lok Yiu Lee - llee0522@uni.sydney.edu.au
+
 Ceren Kayrakci - ckay0693@uni.sydney.edu.au  
+
 
 
 # Research Questions/Hypothesis
