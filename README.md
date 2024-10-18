@@ -11,7 +11,7 @@ Ceren Kayrakci - ckay0693@uni.sydney.edu.au
 
 
 
-# Research Questions/Hypothesis
+# Research Questions
 1. How does the change in sea surface temperature and salinity affect coral bleaching rate?
 
 2. How does the change in currents affect coral bleaching rate?
